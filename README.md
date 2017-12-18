@@ -1,6 +1,6 @@
 # Twitter-to-Pocket
 
-I have a very bad habit of send important tweet's to myself for later reading and because of this is how my twitter DM looks like 😅
+I have a very bad habit of send important tweet's to myself(to bookmark) for later reading and because of this is how my twitter DM looks like 😅
 
 ![like this](https://screenshots.firefoxusercontent.com/images/fe085dd7-de9a-4a84-82c7-021d9deb43ed.png)
 
