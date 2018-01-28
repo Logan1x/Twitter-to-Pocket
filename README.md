@@ -9,3 +9,5 @@ If you can help me in any context , please **email** to sharmakhushal78@gmail.co
 Thanks😊
 
 
+We might get this feature soon, Twitter is testing on bokkmark feature and it seems like that's what i need.
+Read full story [here]( https://9to5google.com/2018/01/18/twitter-android-bookmarks-save-tweets-feature/)
